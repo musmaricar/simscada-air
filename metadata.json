@@ -1,0 +1,6 @@
+{
+  "name": "SimSCADA-Air - Simulator SCADA Pelatihan Operator Air Minum",
+  "description": "Simulator SCADA berbasis web dengan gamifikasi untuk pelatihan operator air minum dari instalasi pengolahan air (IPA) hingga jaringan distribusi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

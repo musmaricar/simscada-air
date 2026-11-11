@@ -1,11 +1,20 @@
-# simscada-air
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-**tujuan**: memenuhi tugas project S2 Pradita Simulasi SCADA AIR untuk proses pembelajaran Pengolahan Air dari IPA sampai Distribusi
+# Run and deploy your AI Studio app
 
-**anggota kelompok**: 
-- Mustofa Maricar, 2620101034
-- Mohammad Hasyim, 2620101028
-- Chaidir Djakaria, 2620101025
+This contains everything you need to run your app locally.
 
-**tautan aplikasi**: 
-https://ais-pre-vzs4fmaac6yadtqm4sbtwf-792857744769.asia-northeast1.run.app
+View your app in AI Studio: https://ai.studio/apps/e26d4e92-b133-4539-aa89-a2ba21038798
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
